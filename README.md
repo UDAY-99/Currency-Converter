@@ -5,7 +5,7 @@ An intuitive and visually appealing currency converter web app that allows users
 
 ## 🌐 Live Demo
 
-👉 [Click Here to Try It Out](https://yourusername.github.io/currency-converter/)  
+👉 [Click Here to Try It Out](https://uday-99.github.io/Currency-Converter/)  
 
 
 ## 🌟 Features
